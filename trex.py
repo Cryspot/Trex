@@ -30,5 +30,3 @@ kontol.question("Ip berapa kontol ? ", function (ip) {
     });
   });
 });  
-
-DDOS HENGKEL TZY WIBU
